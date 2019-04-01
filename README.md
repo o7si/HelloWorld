@@ -1,5 +1,15 @@
 # HelloWorld
 
+```C   
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    printf("%d -> HelloWorld\n", 0x0000);
+    return 0;
+}
+```
+
 ```C++
 // C++ HelloWorld 模板
 #include <iostream>
@@ -8,6 +18,14 @@ int main(int argc, char *argv[])
 {
     std::cout << 0x0000 << " -> HelloWorld" << std::endl;
     return 0;
+}
+```
+
+```Go
+package main
+
+func main() {
+    println(0x0000, "-> HelloWorld")
 }
 ```
 
