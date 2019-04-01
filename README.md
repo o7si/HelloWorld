@@ -1,6 +1,7 @@
 # HelloWorld
 
 ```C   
+// C HelloWorld 模板
 #include <stdio.h>
 
 int main(int argc, char *argv[])
@@ -22,6 +23,7 @@ int main(int argc, char *argv[])
 ```
 
 ```Go
+// Go HelloWorld 模板
 package main
 
 func main() {
