@@ -42,5 +42,5 @@ public class HelloWorld {
 
 #### - Python HelloWorld 模板
 ```Python
-print(0x0000, "-> HelloWorld")
+print(0x0000, " -> HelloWorld", sep='', end='\n')
 ```
