@@ -1,6 +1,6 @@
 # HelloWorld
 
-#### C HelloWorld 模板
+#### - C HelloWorld 模板
 ```C   
 #include <stdio.h>
 
@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-#### C++ HelloWorld 模板
+#### - C++ HelloWorld 模板
 ```C++
 #include <iostream>
 
@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-#### Go HelloWorld 模板
+#### - Go HelloWorld 模板
 ```Go
 package main
 
@@ -31,7 +31,7 @@ func main() {
 }
 ```
 
-#### Java HelloWorld 模板
+#### - Java HelloWorld 模板
 ```Java
 public class HelloWorld {
     public static void main(String[] args) {
@@ -40,7 +40,7 @@ public class HelloWorld {
 }
 ```
 
-#### Python HelloWorld 模板
+#### - Python HelloWorld 模板
 ```Python
 print(0x0000, "-> HelloWorld")
 ```
