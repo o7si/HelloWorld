@@ -1,5 +1,5 @@
 package main
 
 func main() {
-    println(0x0002, "-> HelloWorld")
+    println(0x0003, "-> HelloWorld")
 }
