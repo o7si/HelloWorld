@@ -1,15 +1,5 @@
 # HelloWorld
 
-- 持有者
-
-C++: shayuanshayuan(1, 2019-04-01)
-
-C: lwlzh(1, 2019-04-01)
-
-Java: chenshimeng(1, 2019-04-01)
-
-Python: 43EVER(1, 2019-04-01)
-
 #### - C HelloWorld 模板
 ```C   
 #include <stdio.h>
