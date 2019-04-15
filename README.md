@@ -2,8 +2,8 @@
 
 [] C
 [x] C++
-[] Java
-[] Python
+[x] Java
+[x] Python
 [] Go
 
 #### - C HelloWorld 模板
