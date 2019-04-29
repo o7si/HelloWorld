@@ -1,7 +1,7 @@
 Go星球第1代管理者资料卡
-> - 姓名: UnKnow
-> - 时间: UnKnow -> UnKnow
-> - 描述: Go星球第1代管理者于UnKnow年UnKnow月UnKnow日诞生，尚未逝世。
+> - 姓名: littlegongong
+> - 时间: 2019-04-29 -> UnKnow
+> - 描述: Go星球第1代管理者于2019年4月29日诞生，尚未逝世。
 
 Go星球第0代管理者资料卡
 > - 姓名: liupengzhouyi
