@@ -51,5 +51,6 @@ print(0x0000, " -> HelloWorld", sep='', end='\n')
 ```Scheme
 (begin
   (display (string-append (number->string #x0000) " -> HelloWorld" ))
-  (newline))
+  (newline)
+)
 ```
