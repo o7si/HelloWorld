@@ -1,7 +1,5 @@
 # HelloWorld
 
-
-
 #### - C HelloWorld 模板
 ```C   
 #include <stdio.h>
@@ -53,4 +51,9 @@ print(0x0000, " -> HelloWorld", sep='', end='\n')
   (display (string-append (number->string #x0000) " -> HelloWorld" ))
   (newline)
 )
+```
+
+#### Haskell HelloWorld 模板
+```Haskell
+ putStrLn $ show(0x0000) ++ " -> Hello World"
 ```
