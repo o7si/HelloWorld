@@ -50,6 +50,6 @@ print(0x0000, " -> HelloWorld", sep='', end='\n')
 #### - Scheme HelloWorld 模版
 ```Scheme
 (begin
-(display "HelloWorld")
-(newline) #x0000)
+  (display (string-append (number->string #x0000) " -> HelloWorld" ))
+  (newline))
 ```
