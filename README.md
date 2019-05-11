@@ -26,8 +26,10 @@ int main(int argc, char *argv[])
 ```Go
 package main
 
+import "fmt"
+
 func main() {
-    println(0x0000, "-> HelloWorld")
+    fmt.Printf("%d -> HelloWorld\n", 0x0000);
 }
 ```
 
