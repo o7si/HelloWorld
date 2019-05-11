@@ -48,12 +48,12 @@ print(0x0000, " -> HelloWorld", sep='', end='\n')
 #### - Scheme HelloWorld 模版
 ```Scheme
 (begin
-  (display (string-append (number->string #x0000) " -> HelloWorld" ))
-  (newline)
+    (display (string-append (number->string #x0000) " -> HelloWorld" ))
+    (newline)
 )
 ```
 
 #### - Haskell HelloWorld 模板
 ```Haskell
- putStrLn $ show(0x0000) ++ " -> HelloWorld"
+putStrLn $ show(0x0000) ++ " -> HelloWorld"
 ```
