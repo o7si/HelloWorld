@@ -59,3 +59,8 @@ print(0x0000, " -> HelloWorld", sep='', end='\n')
 ```Haskell
 putStrLn $ show(0x0000) ++ " -> HelloWorld"
 ```
+
+#### - JavaScript HelloWorld 模板
+```JavaScript
+console.log(0x0000 + " -> HelloWorld");
+```
