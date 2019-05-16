@@ -42,17 +42,17 @@ public class HelloWorld {
 }
 ```
 
-#### - Python HelloWorld 模板
-```Python
-print(0x0000, " -> HelloWorld", sep='', end='\n')
-```
-
 #### - Scheme HelloWorld 模版
 ```Scheme
 (begin
     (display (string-append (number->string #x0000) " -> HelloWorld" ))
     (newline)
 )
+```
+
+#### - Python HelloWorld 模板
+```Python
+print(0x0000, " -> HelloWorld", sep='', end='\n')
 ```
 
 #### - Haskell HelloWorld 模板
