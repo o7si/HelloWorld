@@ -1,1 +1,1 @@
- putStrLn $ show(0x0011) ++ " -> Hello World"
+ putStrLn $ show(0x000B) ++ " -> HelloWorld"
