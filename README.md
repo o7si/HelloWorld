@@ -5,7 +5,7 @@
 简介：无简介。<br>
 具体：为每一位签到0x0030天以上的管理者派发一张具有时效的补签卡。<br>
 物品详情：补签卡 * 1 （2019年5月25日23时59分失效）<br>
-物品获得人员：C++Manager(0), JavaManager(1), PythonManager(0)。<br>
+物品获得人员：C++Manager(0), PythonManager(0)。<br>
 
 #### - C HelloWorld 模板
 ```C   
