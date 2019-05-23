@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-    println(0x0004, "-> HelloWorld")
+    fmt.Printf("%d -> HelloWorld\n", 0x0004);
 }

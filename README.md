@@ -1,5 +1,12 @@
 # HelloWorld
 
+#### - 2019年5月22日随机活动
+
+简介：无简介。<br>
+具体：为每一位签到0x0030天以上的管理者派发一张具有时效的补签卡。<br>
+物品详情：补签卡 * 1 （2019年5月25日23时59分失效）<br>
+物品获得人员：C++Manager(0), PythonManager(0)。<br>
+
 #### - C HelloWorld 模板
 ```C   
 #include <stdio.h>
@@ -26,8 +33,10 @@ int main(int argc, char *argv[])
 ```Go
 package main
 
+import "fmt"
+
 func main() {
-    println(0x0000, "-> HelloWorld")
+    fmt.Printf("%d -> HelloWorld\n", 0x0000);
 }
 ```
 
@@ -40,20 +49,25 @@ public class HelloWorld {
 }
 ```
 
+#### - Scheme HelloWorld 模版
+```Scheme
+(begin
+    (display (string-append (number->string #x0000) " -> HelloWorld" ))
+    (newline)
+)
+```
+
 #### - Python HelloWorld 模板
 ```Python
 print(0x0000, " -> HelloWorld", sep='', end='\n')
 ```
 
-#### - Scheme HelloWorld 模版
-```Scheme
-(begin
-  (display (string-append (number->string #x0000) " -> HelloWorld" ))
-  (newline)
-)
-```
-
 #### - Haskell HelloWorld 模板
 ```Haskell
- putStrLn $ show(0x0000) ++ " -> Hello World"
+putStrLn $ show(0x0000) ++ " -> HelloWorld"
+```
+
+#### - JavaScript HelloWorld 模板
+```JavaScript
+console.log(0x0000 + " -> HelloWorld");
 ```

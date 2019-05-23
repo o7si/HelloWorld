@@ -1,1 +1,1 @@
-print(0x0000, "-> HelloWorld")
+print(0x0000, " -> HelloWorld", sep='', end='\n')
