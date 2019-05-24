@@ -1,0 +1,1 @@
+print(0x0034, " -> HelloWorld", sep='', end='\n')
