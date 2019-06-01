@@ -13,7 +13,7 @@
 
 int main(int argc, char *argv[])
 {
-    printf("%d -> HelloWorld\n", 0x0000);
+    printf("%d -> Hello World\n", 0x0000);
     return 0;
 }
 ```
@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 
 int main(int argc, char *argv[])
 {
-    std::cout << 0x0000 << " -> HelloWorld" << std::endl;
+    std::cout << 0x0000 << " -> Hello World" << std::endl;
     return 0;
 }
 ```
@@ -36,7 +36,7 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Printf("%d -> HelloWorld\n", 0x0000);
+    fmt.Printf("%d -> Hello World\n", 0x0000);
 }
 ```
 
@@ -44,7 +44,7 @@ func main() {
 ```Java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println(0x0000 + " -> HelloWorld");
+        System.out.println(0x0000 + " -> Hello World");
     }
 }
 ```
@@ -52,22 +52,22 @@ public class HelloWorld {
 #### - Scheme HelloWorld 模版
 ```Scheme
 (begin
-    (display (string-append (number->string #x0000) " -> HelloWorld" ))
+    (display (string-append (number->string #x0000) " -> Hello World" ))
     (newline)
 )
 ```
 
 #### - Python HelloWorld 模板
 ```Python
-print(0x0000, " -> HelloWorld", sep='', end='\n')
+print(0x0000, " -> Hello World", sep='', end='\n')
 ```
 
 #### - Haskell HelloWorld 模板
 ```Haskell
-putStrLn $ show(0x0000) ++ " -> HelloWorld"
+putStrLn $ show(0x0000) ++ " -> Hello World"
 ```
 
 #### - JavaScript HelloWorld 模板
 ```JavaScript
-console.log(0x0000 + " -> HelloWorld");
+console.log(0x0000 + " -> Hello World");
 ```
