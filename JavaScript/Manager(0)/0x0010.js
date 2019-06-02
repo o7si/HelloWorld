@@ -1,1 +1,1 @@
-console.log(0x000F + " -> Hello Children's Day");
+console.log(0x0010 + " -> Hello Children's Day");
