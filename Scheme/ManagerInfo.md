@@ -1,3 +1,9 @@
+Scheme星球第1代管理者资料卡
+
+> - 姓名: UnKnow
+> - 时间: UnKnow -> UnKnow
+> - 描述: Scheme星球第1代管理者于xxxx年xx月xx日诞生，尚未逝世。
+
 Scheme星球第0代管理者资料卡
 
 > - 姓名: Otuis

@@ -1,7 +1,7 @@
 Python星球第0代管理者资料卡
-> - 姓名: UnKnow
-> - 时间: Unknow -> UnKnow
-> - 描述: Python星球第0代管理者于xxxx年xx月xx日诞生，尚未逝世。
+> - 姓名: li46607
+> - 时间: 2019-06-10 -> UnKnow
+> - 描述: Python星球第1代管理者于2019年6月10日诞生，尚未逝世。
 
 Python星球第0代管理者资料卡
 > - 姓名: 43EVER
