@@ -1,7 +1,7 @@
 C星球第2代管理者资料卡
 > - 姓名: Unknow
 > - 时间: Unknow -> Unknow
-> - 描述: C星球第1代管理者于xxxx年xx月xx日诞生，尚未逝世。
+> - 描述: C星球第2代管理者于xxxx年xx月xx日诞生，尚未逝世。
 
 C星球第1代管理者资料卡
 > - 姓名: freefishs
