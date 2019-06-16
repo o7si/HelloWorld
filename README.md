@@ -22,8 +22,8 @@ int main(int argc, char *argv[])
 }
 ```
 
-#### - Go HelloWorld 模板
-```Go
+#### - Golang HelloWorld 模板
+```Golang
 package main
 
 import "fmt"
