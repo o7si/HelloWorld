@@ -1,3 +1,8 @@
+Golang星球第2代管理者资料卡
+> - 姓名: Unknow
+> - 时间: Unknow -> Unknow
+> - 描述: Golang星球第2代管理者于xxxx年xx月xx日诞生，尚未逝世。
+
 Golang星球第1代管理者资料卡
 > - 姓名: littlegongong
 > - 时间: 2019-04-29 -> 2019-06-28
